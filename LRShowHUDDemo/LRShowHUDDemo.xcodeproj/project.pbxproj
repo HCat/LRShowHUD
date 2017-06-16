@@ -369,8 +369,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = XYWLXM32EU;
 				INFOPLIST_FILE = LRShowHUDDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com-degal--016-2-16test.LRShowHUDDemo";
+				PRODUCT_BUNDLE_IDENTIFIER = com.degal.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -382,8 +383,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = XYWLXM32EU;
 				INFOPLIST_FILE = LRShowHUDDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com-degal--016-2-16test.LRShowHUDDemo";
+				PRODUCT_BUNDLE_IDENTIFIER = com.degal.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
